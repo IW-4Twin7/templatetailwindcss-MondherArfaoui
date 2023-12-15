@@ -8,5 +8,4 @@
 
 .navText{
     @apply font-fontNav text-navColor md:text-navSize text-base font-semibold hover:text-blue-950;
-
 }

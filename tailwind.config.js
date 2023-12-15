@@ -7,7 +7,7 @@ module.exports = {
 
 
       colors:{
-
+        cardColor: "#ff3946",
         navColor:"#314584",
         btnColor:"#ff3946",
         pColor:"#6e757a"
@@ -16,7 +16,9 @@ module.exports = {
 
         navSize:"24px",
         titleSize:"74px",
-        pSize:"18px"
+        pSize:"18px",
+        mSize:"45px",
+        fSize:"49px",
       },
 
       fontFamily:{
